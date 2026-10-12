@@ -1,0 +1,10 @@
+{
+  "description": "Explore a stunning interactive gallery that features ambient lighting and gentle animations, enhancing user engagement and visual experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
